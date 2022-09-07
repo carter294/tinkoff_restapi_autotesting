@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PetStoreTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-04T19:55:28" hostname="DESKTOP-9TI4LRA" time="9.681">
+  <properties/>
+  <testcase name="deletePetTest()" classname="PetStoreTest" time="3.532"/>
+  <testcase name="putPetTest()" classname="PetStoreTest" time="2.011"/>
+  <testcase name="getPetTest()" classname="PetStoreTest" time="1.417"/>
+  <testcase name="createPet()" classname="PetStoreTest" time="1.339"/>
+  <testcase name="createPetTest()" classname="PetStoreTest" time="1.38"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
